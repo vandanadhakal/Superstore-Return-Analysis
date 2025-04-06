@@ -30,8 +30,11 @@ Raw data file can be found here:
 
 [Video Demonstration for Multiple Root Cause Dashboard](https://github.com/vandanadhakal/Superstore-Return-Analysis/blob/main/Filters-Root%20Cause.mov)
 
+Process
+We reviewed that dataset in excel. We looked for problems with the dataset such as incomplete/ missing values and defined each field. We choose to use Tableau to analyze and present the data. We choose Tableau because of it's story point feature as well as its visualization flexibility. We started analyzing the data by creating a list of questions that the data could answer. We then developed a story around those questions and a subsequent outline for each story point. 
+
 ## Methodology
-The data was processed using Tableau. Spreadsheets, Dashboards and Stories were created to analyze the data. Various fields were analyzed to see how they affected the return rates. 
+The data was processed using Tableau. Spreadsheets, Dashboards and Stories were created to analyze the data. Various fields were analyzed to see how they affected the return rates.
 
 ## Root Causes
 It was determined through visualization and analysis that the following criteria affected the return rates:
