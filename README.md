@@ -51,7 +51,8 @@ The Tableau project can be found <a href='https://public.tableau.com/app/profile
 
 Raw data file can be found here: 
 
-[Video Demonstration of use of filter to find root causes](https://github.com/vandanadhakal/Superstore-Return-Analysis/blob/main/Filter-Geography.mov)
+[Video Demonstration for Geography Dashboard](https://github.com/vandanadhakal/Superstore-Return-Analysis/blob/main/Filter-Geography.mov)
+[Video Demonstration for Multiple Root Cause Dashboard](https://github.com/vandanadhakal/Superstore-Return-Analysis/blob/main/Filters-Root%20Cause.mov)
 
 
 
