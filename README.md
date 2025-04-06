@@ -19,7 +19,7 @@ Multiple reasons are causing customers to return products. Here are the causes:
 
 
 ## Project Description 
-Online store Superstore is loosing lots of money through customers returns. The business wants to understand what is causing the returns across products. Do sales always correlate positively with returns? Is Rate of Return always the best approach to analyze data? How does the customers buying and returning behavior align? What further steps can the business do curb the returns? This project tries to answer these questions through data analysis and visualization with the aim to help Superstore make informed data-driven decision.
+Online store Superstore is loosing lots of money through customers returns. The business wants to understand what is causing the returns across products. Do sales always correlate positively with returns? Is Rate of Return always the best approach to analyze data? What does the customers buying and returning behavior tell? What further steps can the business do curb the returns? This project tries to answer these questions through data analysis and visualization with the aim to help Superstore make informed data-driven decision.
 
 The Tableau project can be found <a href='https://public.tableau.com/app/profile/vandana.dhakal/viz/SuperstoreReturnAnalysis_17431936226380/SuperstoreStory'><u>here</u></a>
 
@@ -33,7 +33,7 @@ Process
 We reviewed that dataset in excel. We looked for problems with the dataset such as incomplete/ missing values and defined each field. We choose to use Tableau to analyze and present the data. We choose Tableau because of it's story point feature as well as its visualization flexibility. We started analyzing the data by creating a list of questions that the data could answer. We then developed a story around those questions and a subsequent outline for each story point. 
 
 ## Methodology
-The data was processed using Tableau. Spreadsheets, Dashboards and Stories were created to analyze the data. Various fields were analyzed to see how they affected the return rates.
+The data was processed using Tableau. Spreadsheets, Dashboards and Stories were created to analyze the data. Various fields were analyzed to see how they affected the return rates. Geographic region, states and delivery method were analyzed together to understand return concentration areas. Customers return rates and number of orders/returns were analyzed to understand the pattern of buying and returning. 
 
 ## Root Causes
 It was determined through visualization and analysis that the following criteria affected the return rates:
