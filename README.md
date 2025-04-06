@@ -24,7 +24,7 @@ Online store Superstore is loosing lots of money through customers returns. The 
 
 The Tableau project can be found <a href='https://public.tableau.com/app/profile/vandana.dhakal/viz/SuperstoreReturnAnalysis_17431936226380/SuperstoreStory'><u>here</u></a>
 
-Raw data file can be found here: 
+Raw data file can be found <a href='https://github.com/vandanadhakal/Superstore-Return-Analysis/blob/main/Superstore.xls'><u>here</u></a>
 
 [Video Demonstration for Geography Dashboard](https://github.com/vandanadhakal/Superstore-Return-Analysis/blob/main/Filter-Geography.mov)
 
