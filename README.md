@@ -51,7 +51,7 @@ The Tableau project can be found <a href='https://public.tableau.com/app/profile
 
 Raw data file can be found here: 
 
-The video clip:
+[Demonstration of use of filter to find root causes](https://github.com/vandanadhakal/Superstore-Return-Analysis/blob/main/Filters-Root%20Cause.mov)
 
 
 
@@ -79,14 +79,14 @@ Limiting free returns count during peak months
 
 <img src="https://github.com/vandanadhakal/Superstore-Return-Analysis/blob/main/Proposed%20Steps.png"> 
 
-Limitation
+## Limitation
 1. The data doesn't include returns in the Sales and Profit data. Customers Hilary Holden and Roland Murray have 100% return rates. The total sales and total profit of these customers are positive, which can’t be true when all that were bought were returned. 
 2. Cost of returns isn't taken into account in the data. Thus, the profit/sales provided is not representative of the actual profit/sales of the company including all the costs.
-Assumptions
+## Assumptions
 1. The ship-mode have subscription service with Same Day having the highest price per subscription. First class and second class having 2nd and 3rd highest subscription price respectively.
 2. Standard Class has no subscription fee.
 
-Conclusion
+## Conclusion
 1. Superstore is bleeding money on customers returns
 2. Returns are eating their profit and sales revenue
 3. They need to proactively look for approaches to reduce product returns
