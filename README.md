@@ -19,8 +19,7 @@ Multiple reasons are causing customers to return products. Here are the causes:
 
 
 ## Project Description 
-Online store Superstore is loosing lots of money through customers returns. The business wants to understand what is causing the returns across products. Do sales always correlate positively with returns? Is Rate of Return always the best approach to analyze data? How does the customers buying and returning behavior align? What further steps can the business do curb the returns? This project tries to answer these questions through data analysis and visualization with the aim to help Superstore make informed data-driven decision. 
-<img src="https://github.com/vandanadhakal/Cosmetic_Data_Analysis/blob/main/Feb%20Code%20Pudding%3A%20Cosmetics%20Data/Many%20Options%20Available.png"> 
+Online store Superstore is loosing lots of money through customers returns. The business wants to understand what is causing the returns across products. Do sales always correlate positively with returns? Is Rate of Return always the best approach to analyze data? How does the customers buying and returning behavior align? What further steps can the business do curb the returns? This project tries to answer these questions through data analysis and visualization with the aim to help Superstore make informed data-driven decision.
 
 The Tableau project can be found <a href='https://public.tableau.com/app/profile/vandana.dhakal/viz/SuperstoreReturnAnalysis_17431936226380/SuperstoreStory'><u>here</u></a>
 
