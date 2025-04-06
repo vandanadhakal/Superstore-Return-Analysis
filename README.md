@@ -31,7 +31,7 @@ Raw data file can be found <a href='https://github.com/vandanadhakal/Superstore-
 
 
 ## Methodology
-The data was processed using Tableau. Spreadsheets, Dashboards and Stories were created to analyze the data. Various fields were analyzed to see how they affected the return rates. Geographic region, states and delivery method were analyzed together to understand return concentration areas. Customers return rates and number of orders/returns were analyzed to understand the pattern of buying and returning. An analysis of how should return be measured and their applicability is assessed: Return Rate (%), Cost of Returns ($) or Total Count of Returns (Count)
+The data was processed using Tableau. Spreadsheets, Dashboards and Stories were created to analyze the data. Various fields were analyzed to see how they affected the return rates. Geographic region, states and delivery method were analyzed together to understand return concentration areas. Customers return rates and number of orders/returns were analyzed to understand the pattern of buying and returning. An analysis of how should return be measured and their applicability is assessed: Return Rate (%), Cost of Returns ($) or Total Count of Returns (Count).
 
 ## Root Causes
 It was determined through visualization and analysis that the following criteria affected the return rates:
