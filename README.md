@@ -22,6 +22,14 @@ Multiple reasons are causing customers to return products. Here are the causes:
 Online store Superstore is loosing lots of money through customers returns. The business wants to understand what is causing the returns across products. Do sales always correlate positively with returns? Is Rate of Return always the best approach to analyze data? How does the customers buying and returning behavior align? What further steps can the business do curb the returns? This project tries to answer these questions through data analysis and visualization with the aim to help Superstore make informed data-driven decision. 
 <img src="https://github.com/vandanadhakal/Cosmetic_Data_Analysis/blob/main/Feb%20Code%20Pudding%3A%20Cosmetics%20Data/Many%20Options%20Available.png"> 
 
+The Tableau project can be found <a href='https://public.tableau.com/app/profile/vandana.dhakal/viz/SuperstoreReturnAnalysis_17431936226380/SuperstoreStory'><u>here</u></a>
+
+Raw data file can be found here: 
+
+[Video Demonstration for Geography Dashboard](https://github.com/vandanadhakal/Superstore-Return-Analysis/blob/main/Filter-Geography.mov)
+
+[Video Demonstration for Multiple Root Cause Dashboard](https://github.com/vandanadhakal/Superstore-Return-Analysis/blob/main/Filters-Root%20Cause.mov)
+
 ## Methodology
 The data was processed using Tableau. Spreadsheets, Dashboards and Stories were created to analyze the data. Various fields were analyzed to see how they affected the return rates. 
 
@@ -47,12 +55,7 @@ Some sub-categories have higher rate of returns than others. Machines and Fasten
 From the 3 categories (Technology, Office Supplies and Furniture), Technology has the highest return rate. But the return rate across all 3 categories is similar. Thus, this criterion is not a significant root cause of returns.
 
 
-The Tableau project can be found <a href='https://public.tableau.com/app/profile/vandana.dhakal/viz/SuperstoreReturnAnalysis_17431936226380/SuperstoreStory'><u>here</u></a>
 
-Raw data file can be found here: 
-
-[Video Demonstration for Geography Dashboard](https://github.com/vandanadhakal/Superstore-Return-Analysis/blob/main/Filter-Geography.mov)
-[Video Demonstration for Multiple Root Cause Dashboard](https://github.com/vandanadhakal/Superstore-Return-Analysis/blob/main/Filters-Root%20Cause.mov)
 
 
 
