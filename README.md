@@ -77,7 +77,7 @@ Sending personalized emails to summarize return history
 Boosting sales during low demand month by providing discounts/coupons 
 Limiting free returns count during peak months
 
-(final suggestion: Picture Here)
+<img src="https://github.com/vandanadhakal/Superstore-Return-Analysis/blob/main/Proposed%20Steps.png"> 
 
 Limitation
 1. The data doesn't include returns in the Sales and Profit data. Customers Hilary Holden and Roland Murray have 100% return rates. The total sales and total profit of these customers are positive, which can’t be true when all that were bought were returned. 
