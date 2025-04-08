@@ -62,20 +62,26 @@ From the 3 categories (Technology, Office Supplies and Furniture), Technology ha
 **Changes on Return Policies**
 Limiting free returns 
 Charging for excess return costs
+
 **Optimizing Delivery Methods**
 Incentivizing Standard Class customers by discount/coupons
 Increasing subscription fee and limiting number of free returns
+
 **Enhancing Product Quality**
 Quality checks before shipment
 Asking for customers input on quality of products
 Involving vendors to meet quality standard if necessary
-**Further analyze subcategories including Sales, Return, Profit and Cost of Returns**
-**Customers engagement** 
+
+**Further Analyze Subcategories including Sales, Return, Profit and Cost of Returns**
+
+**Improving Customers Engagement** 
 Request for sincere feedbacks on products/returns
 Sending personalized emails to summarize return history
-**Mix Approach to discount and months**
+
+**Mix Approach to Discount and Months**
 Boosting sales during low demand month by providing discounts/coupons 
-Limiting free returns count during peak months
+Limiting free returns count during peak sales months
+
 
 <img src="https://github.com/vandanadhakal/Superstore-Return-Analysis/blob/main/Proposed%20Steps.png"> 
 
