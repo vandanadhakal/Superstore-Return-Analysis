@@ -25,10 +25,6 @@ The Tableau project can be found <a href='https://public.tableau.com/app/profile
 
 Raw data file can be found <a href='https://github.com/vandanadhakal/Superstore-Return-Analysis/blob/main/Superstore.xls'><u>here</u></a>
 
-[Video Demonstration for Geography Dashboard](https://www.youtube.com/watch?v=fxmY5O-TfiA)
-
-[Video Demonstration for Multiple Root Cause Dashboard](https://www.youtube.com/watch?v=T-9-UZF3S3w)
-
 
 ## Methodology
 The data was processed using Tableau. Spreadsheets, Dashboards and Stories were created to analyze the data. Various fields were analyzed to see how they affected the return rates. Geographic region, states and delivery method were analyzed together to understand return concentration areas. Customers return rates and number of orders/returns were analyzed to understand the pattern of buying and returning. An analysis of how should return be measured i.e Return Rate (%), Cost of Returns ($) or Total Count of Returns (Count) and their applicability is also assessed.
@@ -53,6 +49,11 @@ Some sub-categories have higher rate of returns than others. `Machines` and `Fas
 
 **6. Category:**
 From the 3 categories (Technology, Office Supplies and Furniture), Technology has the highest return rate. But the return rate across all 3 categories is similar. Thus, this criterion is not a significant root cause of returns.
+
+[Video Demonstration for Geography Dashboard](https://www.youtube.com/watch?v=fxmY5O-TfiA)
+
+[Video Demonstration for Multiple Root Cause Dashboard](https://www.youtube.com/watch?v=T-9-UZF3S3w)
+
 
 <img src='https://github.com/vandanadhakal/Superstore-Return-Analysis/blob/main/Root%20Causes.png'>
 
