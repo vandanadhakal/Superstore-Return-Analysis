@@ -54,29 +54,26 @@ Some sub-categories have higher rate of returns than others. `Machines` and `Fas
 **6. Category:**
 From the 3 categories (Technology, Office Supplies and Furniture), Technology has the highest return rate. But the return rate across all 3 categories is similar. Thus, this criterion is not a significant root cause of returns.
 
+<img src='https://github.com/vandanadhakal/Superstore-Return-Analysis/blob/main/Root%20Causes.png'>
 
 
+## How to Target Root Causes
 
-
-
-
-## Approaches to target root cause areas
-
-> Changes on Return Policies 
+**Changes on Return Policies**
 Limiting free returns 
 Charging for excess return costs
-> Optimizing Delivery Methods 
+**Optimizing Delivery Methods**
 Incentivizing Standard Class customers by discount/coupons
 Increasing subscription fee and limiting number of free returns
-> Enhancing Product Quality 
+**Enhancing Product Quality**
 Quality checks before shipment
 Asking for customers input on quality of products
 Involving vendors to meet quality standard if necessary
-> Further analyze subcategories including Sales, Return, Profit and Cost of Returns
-> Customers engagement 
+**Further analyze subcategories including Sales, Return, Profit and Cost of Returns**
+**Customers engagement** 
 Request for sincere feedbacks on products/returns
 Sending personalized emails to summarize return history
-> Mix Approach to discount and months 
+**Mix Approach to discount and months**
 Boosting sales during low demand month by providing discounts/coupons 
 Limiting free returns count during peak months
 
