@@ -25,7 +25,7 @@ The Tableau project can be found <a href='https://public.tableau.com/app/profile
 
 Raw data file can be found <a href='https://github.com/vandanadhakal/Superstore-Return-Analysis/blob/main/Superstore.xls'><u>here</u></a>
 
-[Video Demonstration for Geography Dashboard](https://github.com/vandanadhakal/Superstore-Return-Analysis/blob/main/Filter-Geography.mov)
+[Video Demonstration for Geography Dashboard](https://www.youtube.com/watch?v=fxmY5O-TfiA)
 
 [Video Demonstration for Multiple Root Cause Dashboard](https://github.com/vandanadhakal/Superstore-Return-Analysis/blob/main/Filters-Root%20Cause.mov)
 
