@@ -31,25 +31,25 @@ Raw data file can be found <a href='https://github.com/vandanadhakal/Superstore-
 
 
 ## Methodology
-The data was processed using Tableau. Spreadsheets, Dashboards and Stories were created to analyze the data. Various fields were analyzed to see how they affected the return rates. Geographic region, states and delivery method were analyzed together to understand return concentration areas. Customers return rates and number of orders/returns were analyzed to understand the pattern of buying and returning. An analysis of how should return be measured and their applicability is assessed: Return Rate (%), Cost of Returns ($) or Total Count of Returns (Count).
+The data was processed using Tableau. Spreadsheets, Dashboards and Stories were created to analyze the data. Various fields were analyzed to see how they affected the return rates. Geographic region, states and delivery method were analyzed together to understand return concentration areas. Customers return rates and number of orders/returns were analyzed to understand the pattern of buying and returning. An analysis of how should return be measured i.e Return Rate (%), Cost of Returns ($) or Total Count of Returns (Count) and their applicability is also assessed.
 
 ## Root Causes
 It was determined through visualization and analysis that the following criteria affected the return rates:
 
 **1. Month of the year:**
-Certain months of a year like February, August, September, October and December have return rates that are upward of 25%. The total number of discounts provided to customers during these months are relatively higher than other months except in February. Thus, these months are prone to higher return rates.
+Certain months of a year like `February`, `August`, `September`, `October` and `December` have return rates that are upward of 25%. The total number of discounts provided to customers during these months are relatively higher than other months except in February. Thus, these months are prone to higher return rates.
 
 **2. Region/State:**
-Some geographical regions have higher return rates than others. West and East region has the highest and second highest return rates in the country. Utah, California and Oregon, all West region states, have the 3 highest return rates in the country.
+Some geographical regions have higher return rates than others. `West` and `East` region has the highest and second highest return rates in the country. `Utah`, `California` and `Oregon`, all West region states, have the 3 highest return rates in the country.
 
 **3. Ship Mode:**
-Same day ship-mode has the highest return rate than other modes. First class ship-mode has second highest return rate.
+`Same Day` ship-mode has the highest return rate than other modes. `First Class` ship-mode has second highest return rate.
 
 **4. Discount:**
 There is a strong correlation between discount (total count) and the return rate with respect to months of the year.
 
 **5. Sub-category:**
-Some sub-categories have higher rate of returns than others. Machines and Fasteners have a high rate of return (>30%), while Envelopes have the least at 17.2%.
+Some sub-categories have higher rate of returns than others. `Machines` and `Fasteners` have a high rate of return (>30%), while Envelopes have the least at 17.2%.
 
 **6. Category:**
 From the 3 categories (Technology, Office Supplies and Furniture), Technology has the highest return rate. But the return rate across all 3 categories is similar. Thus, this criterion is not a significant root cause of returns.
@@ -60,8 +60,7 @@ From the 3 categories (Technology, Office Supplies and Furniture), Technology ha
 
 
 
-Approaches to target root cause areas:
-➔	Recommendations: Advised changing return policy – limit free returns/charge for excess returns; Optimize delivery services – incentivize standard class customers/reevaluate subscription pricing; Boost customers engagement via feedback; Enhance product quality; Adjust discounts seasonally.
+## Approaches to target root cause areas
 
 > Changes on Return Policies 
 Limiting free returns 
