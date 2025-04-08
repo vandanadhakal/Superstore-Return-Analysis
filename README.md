@@ -27,7 +27,7 @@ Raw data file can be found <a href='https://github.com/vandanadhakal/Superstore-
 
 [Video Demonstration for Geography Dashboard](https://www.youtube.com/watch?v=fxmY5O-TfiA)
 
-[Video Demonstration for Multiple Root Cause Dashboard](https://github.com/vandanadhakal/Superstore-Return-Analysis/blob/main/Filters-Root%20Cause.mov)
+[Video Demonstration for Multiple Root Cause Dashboard](https://www.youtube.com/watch?v=T-9-UZF3S3w)
 
 
 ## Methodology
